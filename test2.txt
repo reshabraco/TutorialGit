@@ -1,2 +1,3 @@
 saya tambah script di test2
 dan ini di baris ke 2
+today is friday , have a nice day
